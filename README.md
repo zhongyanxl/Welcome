@@ -1,2 +1,2 @@
 # Welcome
-This is the testing repository
+This is the testing page
